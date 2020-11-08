@@ -9,32 +9,8 @@ My stint at writing started during the Covid-19 Lockdown. I find it extremely fr
 Feel free to check out my musings.
 
 [The 20s chaos](https://navyavijayan.medium.com/the-chaos-that-the-20s-is-for-the-dreamers-8ad014bc2b73)
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/navyavijayan/navyavijayan/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Business Entrepreneurship for Engineers, NIT Trichy](https://navyavijayan.medium.com/business-entrepreneurship-for-engineers-a-course-to-look-out-for-at-nit-trichy-7938964a1479)
+[Applications- DONTs](https://navyavijayan.medium.com/what-not-to-do-when-applying-for-a-programme-53bd907ae2ce)
 
 ### Support or Contact
 
