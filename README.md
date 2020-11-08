@@ -1,10 +1,16 @@
-## Hey there! I am Navya Vijayan!
+## Dream big and keep learning!
 
-Welcome to my webpage. "Dream big and keep learning" has been my forever motto. I have been following this knowingly and unknowingly for a long time now.
+Welcome to my webpage. You can find my personal portfolio on this website. 
+Two words to describe me - **Dreamer** and **Learner**. 
+Apart from work, I love singing and reading. Scroll down to find some interesting things I have done so far!
 
-### What can you find here?
+### Writing
+My stint at writing started during the Covid-19 Lockdown. I find it extremely freeing and as a decluttering experience.
+Feel free to check out my musings.
 
-You can find my personal portfolio on this website. Apart from work, I love singing and reading. Stay tuned for regular music videos and some book reviews.
+[The 20s chaos](https://navyavijayan.medium.com/the-chaos-that-the-20s-is-for-the-dreamers-8ad014bc2b73)
+
+
 
 ```markdown
 Syntax highlighted code block
