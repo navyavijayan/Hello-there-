@@ -2,9 +2,9 @@
 
 Welcome to my webpage. "Dream big and keep learning" has been my forever motto. I have been following this knowingly and unknowingly for a long time now.
 
-### Markdown
+### What can you find here?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can find my personal portfolio on this website. Apart from work, I love singing and reading. Stay tuned for regular music videos and some book reviews.
 
 ```markdown
 Syntax highlighted code block
